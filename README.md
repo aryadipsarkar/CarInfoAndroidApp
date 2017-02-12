@@ -6,7 +6,7 @@ pictures into thumbnails appearing in the grid view (e.g. whether to scale the p
 grid is displayed on a Nexus 5 device. Also, size the thumbnails appropriately, e.g., using 2 or 3 columns
 in portrait mode. Thumbnails are designed to fill at least most of a Nexus 5’s display with
 picture grid (i.e., at least 6 cells if using two columns). <br/>
-<b/r>
+<br/>
 Each grid cell supports two kinds of functionality, depending on whether an app viewer performs a short
 vs. a long click on a cell. A short click brings up a new activity that shows the entire picture of the selected
 car on the entire device display. This picture must be a higher resolution and bigger than the thumbnail
