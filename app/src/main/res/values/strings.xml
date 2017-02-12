@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Project#2</string>
+    <string-array name="makes">
+        <item>Bugatti</item>
+        <item>Ferrari</item>
+        <item>Jaguar</item>
+        <item>Koenigsegg</item>
+        <item>Lamborghini</item>
+        <item>Maserati</item>
+        <item>Porsche</item>
+        <item>Tesla</item>
+    </string-array>
+    <string-array name="links">
+        <item>http://www.bugatti.com/</item>
+        <item>http://www.ferrari.com/</item>
+        <item>http://www.jaguar.com</item>
+        <item>http://www.koenigsegg.com/</item>
+        <item>https://www.lamborghini.com/</item>
+        <item>http://www.maserati.com/</item>
+        <item>http://www.porsche.com/</item>
+        <item>https://www.tesla.com/</item>
+    </string-array>
+    <string-array name="bugatti_dealer_names">
+        <item>Autotrader</item>
+        <item>Gold Coast Auto Gallery</item>
+        <item>Continental Auto Sports </item>
+    </string-array>
+    <string-array name="bugatti_dealer_address">
+        <item>834 N Rush,Chicago,IL 60611</item>
+        <item>530 W Chicago Avenue,Chicago,IL 60610</item>
+        <item>420 E Ogden Avenue,Hinsdale,IL 60521</item>
+    </string-array>
+    <string-array name="ferrari_dealer_names">
+        <item>Continental Auto Sports</item>
+        <item>Autotrader</item>
+        <item>Global Luxury Imports</item>
+    </string-array>
+    <string-array name="ferrari_dealer_address">
+        <item>420 E Ogden Avenue,Hinsdale,IL 60521</item>
+        <item>834 N Rush,Chicago,IL 60611</item>
+        <item>101 Tower Drive ,BURR RIDGE,IL 60527-7818</item>
+    </string-array>
+    <string-array name="jaguar_dealer_names">
+        <item>Howard Orloff Imports</item>
+        <item>McGrath Lexus of Chicago </item>
+        <item>Luxe Automart</item>
+    </string-array>
+    <string-array name="jaguar_dealer_address">
+        <item>1924 N Paulina Street, Chicago, IL 60622</item>
+        <item>1250 W Division Street, Chicago, IL 60642</item>
+        <item>1131 N Ashland Avenue,Chicago, IL 60622-3936 </item>
+    </string-array>
+    <string-array name="koenigsegg_dealer_names">
+        <item>Lake Forest Sport Car of Chicago</item>
+        <item>McLaren Chicago</item>
+        <item>McGrath Acura of Downtown Chicago </item>
+    </string-array>
+    <string-array name="koenigsegg_dealer_address">
+        <item>1924 N Paulina Street, Chicago, IL 60622</item>
+        <item>990 N Shore Drive Lake Bluff, IL 60044</item>
+        <item>1301 N Elston,Chicago, IL 60642</item>
+    </string-array>
+    <string-array name="lamborghini_dealer_names">
+        <item>Autotrader</item>
+        <item>Luxury Auto Selection</item>
+        <item>Continental Auto Sports</item>
+    </string-array>
+    <string-array name="lamborghini_dealer_address">
+        <item>834 N Rush, Chicago, IL 60611</item>
+        <item>4580 N Elston Avenue Chicago, IL 60630</item>
+        <item>420 E Ogden Avenue, Hinsdale, IL 60521</item>
+    </string-array>
+    <string-array name="maserati_dealer_names">
+        <item>Autotrader</item>
+        <item>Zeigler Maserati</item>
+        <item>Continental Auto Sports</item>
+    </string-array>
+    <string-array name="maserati_dealer_address">
+        <item>834 N Rush, Chicago, IL 60611</item>
+        <item>210 W Golf Road, Schaumburg,IL-60195 </item>
+        <item>420 E Ogden Avenue, Hinsdale, IL 60521</item>
+    </string-array>
+    <string-array name="porsche_dealer_names">
+        <item>Mancuso Motorsports </item>
+        <item>McGrath Acura of Downtown Chicago</item>
+        <item>Greater Chicago Motors </item>
+    </string-array>
+    <string-array name="porsche_dealer_address">
+        <item>677 N Clark Street, Chicago, IL 60654</item>
+        <item>1301 N Elston,Chicago,IL 60642</item>
+        <item>1850 N Elston Avenue,Chicago, IL 60642</item>
+    </string-array>
+    <string-array name="tesla_dealer_names">
+        <item>Tesla Chicago</item>
+        <item>Greater Chicago Motors</item>
+        <item>Continental Auto Sports </item>
+    </string-array>
+    <string-array name="tesla_dealer_address">
+        <item>1053 W Grand Avenue, Chicago, IL 60642</item>
+        <item>1850 N Elston Avenue,Chicago, IL 60642</item>
+        <item>420 E Ogden Avenue, Hinsdale,IL 60521</item>
+    </string-array>
+</resources>

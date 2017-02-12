@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <item android:title="View the entire picture"
+          android:id="@+id/menu_1"  />
+    <item android:title="Official Page of the Maker"
+          android:id="@+id/menu_2"/>
+    <item android:title="Names and Addresses of Dealers"
+          android:id="@+id/menu_3"/>
+</menu>
